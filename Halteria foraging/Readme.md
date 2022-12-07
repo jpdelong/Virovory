@@ -4,7 +4,7 @@ Matlab code to plot data in Figure 1 and make model solutions that are plotted i
 
 The virovory trophic model is in Virovore_virus_model.m
 
-The Potterswheel code is available upon request but does require a special install to run.
+The Potterswheel code is available upon request but does require a special install to run. But the parameters estimated by bootstrapped fits to the data are contained in bootstrapped_parameters.xls.
 
 Images are for the four panels shown in Figure 1
 
